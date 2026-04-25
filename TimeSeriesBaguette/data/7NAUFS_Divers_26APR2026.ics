@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AMADEUS//NONSGML Itinerary/
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTAMP:20260421T120300Z
+UID:7NAUFS_PNRMIS2_20260421T120300Z
+DTSTART:20260426T000000
+DTEND:20260426T240000
+SUMMARY:
+LOCATION:Geneva
+DESCRIPTION:Ref. de dossier:7NAUFS\n
+ Statut de la réservation:Confirmé\n
+ Details:Rail/dep-8503000/arr-8585444/ddt-1132/adt-1425/cl-1/rg-chf157.00/tr-na/cf-1514382
+ Additional Info: The scheduler data (ics data) will be changed automatically to the time
+ (zone) the scheduler or smart phone is configured for\n
+ Disclaimer: Calender date and time is for indicative purpose only. To get exact informat
+ ion on your booking, please contact your provider.\n
+END:VEVENT
+END:VCALENDAR
